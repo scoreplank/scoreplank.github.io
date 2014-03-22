@@ -1,3 +1,4 @@
-# scoreplank.com -> scoreplank.github.io
+# scoreplank.com
+scoreplank.github.io
 
 Games website
